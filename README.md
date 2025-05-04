@@ -61,7 +61,19 @@ A well-designed booking system reduces friction in the user journey, increases c
   **Importance of identifying design properties of a mock up design**
   
 This is crucial for ensuring consistency, efficiency, and scalability in development
+   
+# Project Roles and Responsibilities
 
+
+|       *Role*           |                   *Description*                                      |
+|  ----------------------|----------------------------------------------------------------------|
+|  Project Manager       | Oversees timeline, coordinates team, manages deliverables            |
+|  Frontend Developers   | Implements UI components, ensures responsive design                  |
+|  Backend Developers    | Builds APIs, manages database, implements business logic             |
+|  Designers             | Creates mockups, maintains design system, ensures UX quality         |
+|  Q/A Testers           | Writes test cases, performs testing, reports bugs                    |
+|  DevOps Engineers      | Manages deployment, CI/CD pipeline, server infrastructure            |
+|  Product Owner         | Defines requirements, prioritizes features, represents stakeholders  |
+|  Scrum Masters         | Facilitates agile processes, removes blockers, organizes meetings    |
 
   
-    
