@@ -77,3 +77,24 @@ This is crucial for ensuring consistency, efficiency, and scalability in develop
 |  Scrum Masters         | Facilitates agile processes, removes blockers, organizes meetings    |
 
   
+# UI Component Pattern
+
+**Planned COmponents**
+
+    1 Navbar 
+      - Logo
+      - Search bar
+      - User navigation
+      - Responsive menu
+      
+    2 Property card
+      - Property image
+      - Basic details (price, location, rating)
+      - Favourite button
+      - Responsive layout
+
+    3 Footer
+      - Site links
+      - Company informations
+      - Social media links
+      - Copyright informations
